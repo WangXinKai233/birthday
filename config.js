@@ -1,4 +1,4 @@
-// 霸都丶傲天 2019年10月10日 https://github.com/AJLoveChina/birthday
+// wxk 2020年4月30日 
 var config = {
     // 句子的长度可以任意， 你可以写十句话， 二十句话都可以
     // 每句话尽量不要超过15个字,不然展示效果可能不太好
@@ -36,7 +36,7 @@ var config = {
         balloons_flying: "好像少点东西",
         cake_fadein: "蛋糕？",
         light_candle: "蜡烛？",
-        wish_message: "生日快乐",
+        wish_message: "七个月快乐",
         story: "A MESSAGE FOR YOU",
     }
 };
